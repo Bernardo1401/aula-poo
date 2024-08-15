@@ -9,6 +9,5 @@ console.log()
 
 livroObjeto.nome = "É assim que acaba"
 
-
-
 console.log(livroObjeto);
+
