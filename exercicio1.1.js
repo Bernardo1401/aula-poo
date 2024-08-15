@@ -10,5 +10,5 @@ console.log(pessoaObjeto)
 pessoaObjeto.nome = "luiza"
 
 
-console.clear;
+
 console.log(pessoaObjeto);

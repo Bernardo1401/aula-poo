@@ -10,5 +10,5 @@ console.log()
 livroObjeto.nome = "É assim que acaba"
 
 
-console.clear
+
 console.log(livroObjeto);

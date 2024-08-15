@@ -9,5 +9,5 @@ console.log(carroObjeto)
 carroObjeto.ano = 2014
 
 
-console.clear;
+
 console.log(carroObjeto);

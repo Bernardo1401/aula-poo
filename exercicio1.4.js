@@ -9,5 +9,5 @@ console.log(cachorroObjeto)
 cachorroObjeto.nome = "spok"
 
 
-console.clear;
+
 console.log(cachorroObjeto);

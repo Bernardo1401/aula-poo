@@ -9,5 +9,5 @@ console.log(filmeObjeto)
 filmeObjeto.ano = 2019
 
 
-console.clear;
+
 console.log(filmeObjeto);
