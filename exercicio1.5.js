@@ -9,5 +9,4 @@ console.log(produtoObjeto)
 produtoObjeto.marca = "Calvohairs"
 
 
-
 console.log(produtoObjeto);
